@@ -1,0 +1,1 @@
+This basic project is done for learning git/github and some go basics.
